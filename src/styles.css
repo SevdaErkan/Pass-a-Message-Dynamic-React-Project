@@ -1,0 +1,49 @@
+body {
+   background-color: #95b8d1;
+}
+.App {
+   font-family: sans-serif;
+   text-align: center;
+   border: 1px solid;
+   height: 200px;
+   padding: 40px 10px 0;
+   margin: auto;
+   margin-top: 150px;
+   background-color: #f5f5f5;
+   width: 50%;
+}
+input {
+   width: 95%;
+   height: 30px;
+   margin: 20px 10px 0;
+   font-size: 24px;
+}
+.btn {
+   margin: 10px;
+}
+button {
+   padding: 5px 10px;
+   border-radius: 5px;
+   border: 1px solid #95b8d1;
+   background-color: #95b8d1;
+   width: 15%;
+   font-size: 16px;
+   color: white;
+}
+.alert {
+   color: #721c24;
+   background-color: #f8d7da;
+   border-color: #f5c6cb;
+   width: 50%;
+   margin: auto;
+   font-size: 20px;
+}
+.msg {
+   text-transform: uppercase;
+   color: #95b8d1;
+   line-height: 1.2;
+   font-size: 20px;
+}
+h4 {
+   margin: 0;
+}
